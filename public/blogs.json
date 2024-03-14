@@ -1,0 +1,58 @@
+[
+    {
+        "id": "001",
+        "cover": "/images/1.jpg",
+        "title": "The Secret Garden",
+        "author": "John Doe",
+        "author_img": "/images/boy1.png",
+        "posted_date": "2024-03-14",
+        "reading_time": 3,
+        "hashtags": [
+            "#fantasy",
+            "#classic",
+            "#gardening"
+        ]
+    },
+    {
+        "id": "002",
+        "cover": "/images/2.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Jane Smith",
+        "author_img": "/images/boy2.png",
+        "posted_date": "2024-03-14",
+        "reading_time": 2.5,
+        "hashtags": [
+            "#scifi",
+            "#adventure",
+            "#exploration"
+        ]
+    },
+    {
+        "id": "003",
+        "cover": "/images/3.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Alice Johnson",
+        "author_img": "/images/boy3.png",
+        "posted_date": "2024-03-14",
+        "reading_time": 4,
+        "hashtags": [
+            "#mystery",
+            "#thriller",
+            "#history"
+        ]
+    },
+    {
+        "id": "004",
+        "cover": "/images/4.jpg",
+        "title": "Whispers in the Dark",
+        "author": "David Brown",
+        "author_img": "/images/boy4.png",
+        "posted_date": "2024-03-14",
+        "reading_time": 1.5,
+        "hashtags": [
+            "#horror",
+            "#suspense",
+            "#haunting"
+        ]
+    }
+]
